@@ -2,6 +2,7 @@
 
 This is the README file for the Website project
 
-# More updates from TortoiseGit
+# Some changes from Master
 
-Updates on the  feature branch
+There are some changes on the Master branch using the Windows File Explorer
+to manage Git repositories.
