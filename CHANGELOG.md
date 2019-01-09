@@ -2,8 +2,9 @@
 
 ## Latest Changes
 
-* Readme file updates
+* Just a cool tweak.
 
 ## Older Changes
 
+* Readme file updates
 * Added all files
