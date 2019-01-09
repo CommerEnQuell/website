@@ -13,7 +13,3 @@
 
   HTML5, CSS3
   jQuery, Modernizr
-
-# Updates from master branch
-
-more stuff here
