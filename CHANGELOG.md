@@ -4,11 +4,7 @@
 
 * Just a cool tweak.
 
-## Older Changes
-
-* Readme file updates
-* Added all files
-
 ## Additional Changes
 
 * More stuff happens...
+* Changes on Feature branch
